@@ -4,7 +4,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e possuo mestrado em Ciên
 
 ### Alguns detalhes sobre mim
 - 🔭 Trabalhando atualmente na [EMPREL](https://www.emprel.gov.br/) como Engenheiro de Testes;
-- 🌱 Iniciando estudos em Django-ninja;
+- 🌱 Iniciando estudos em API openai;
 - 🌐 Trabalho em equipe - Se consigo fazer coisas boas sozinho, posso fazer coisas muito melhores junto com uma boa equipe;
 - 💪 Resiliência e Mente aberta - Precisamos nos adaptar as mudanças constantes;
 - 🤔 Pensamento crítico - Identificar problemas, tomar decisões inteligentes e analisar situações com profundidade, lógica e precisão garantem melhores resultados;
