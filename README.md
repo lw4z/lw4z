@@ -3,8 +3,8 @@
 Sou formado em Análise e Desenvolvimento de Sistemas e possuo mestrado em Ciência da Computação. Atuo como Engenheiro de Testes de Software, focando em testes exploratórios e de regressão. Tenho conhecimentos em Python, Linux, Pytest, FastAPI e Selenium. Tenho experiências como P.O. e Scrum Master. Além disso, possuo conhecimentos sólidos relacionados a processamento de linguagem natural e sistemas de buscas com o Apache Solr. Vivo sempre em busca de novas oportunidades para aplicar minhas habilidades e conhecimentos em projetos desafiadores e inovadores.
 
 ### Alguns detalhes sobre mim
-- 🔭 Trabalhando atualmente na [EMPREL](https://www.emprel.gov.br/) como Engenheiro de Testes;
-- 🌱 Iniciando estudos em API openai;
+- 🔭 Trabalhando atualmente na [EMPREL](https://www.emprel.gov.br/) como Engenheiro de Testes e Cientista de Dados;
+- 🌱 Continuando estudos nas API's Openai, Anthropic, Brave search, Tavily;
 - 🌐 Trabalho em equipe - Se consigo fazer coisas boas sozinho, posso fazer coisas muito melhores junto com uma boa equipe;
 - 💪 Resiliência e Mente aberta - Precisamos nos adaptar as mudanças constantes;
 - 🤔 Pensamento crítico - Identificar problemas, tomar decisões inteligentes e analisar situações com profundidade, lógica e precisão garantem melhores resultados;
